@@ -1,5 +1,5 @@
 # StealthQuest
-A demonstration on how to use encryption & backend to hide a request to a website.
+A demonstration on how to use encryption & backend to hide a request.
 
 ## Installation
 npm:

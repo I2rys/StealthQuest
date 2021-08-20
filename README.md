@@ -1,14 +1,26 @@
-# StealthQuest
-A demonstration on how to use encryption & backend to hide a request.
+<h1 align="center">StealthQuest</h1>
+<h4 align="center">Demonstration on how to use encryption & backend to hide a request</h4>
+<p align="center">
+	<a href="https://github.com/I2rys/StealthQuest/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/StealthQuest?style=flat-square"></img></a>
+	<a href="https://github.com/I2rys/StealthQuest"><img src="https://bettercodehub.com/edge/badge/I2rys/StealthQuest?branch=main"></a>
+	<a href="https://github.com/I2rys/StealthQuest/issues"><img src="https://img.shields.io/github/issues/I2rys/StealthQuest.svg"></img></a>
+	<a href="https://github.com/I2rys/StealthQuest"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
+	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
+</p>
+
 
 ## Installation
-npm:
+Github:
+
+    git clone https://github.com/I2rys/StealthQuest
+
+NPM Packages:
 
     npm i string-crypto && npm i express-param && npm i request && npm i express
-
+    
 ## Usage
 
     node index.js
 
 ## License
-<a href="https://github.com/I2rys/StealthQuest/blob/main/LICENSE">MIT</a> © <a href="https://github.com/I2rys">I2rys</a>
+MIT © I2rys

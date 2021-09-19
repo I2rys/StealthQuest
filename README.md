@@ -7,7 +7,7 @@
 	<a href="https://github.com/I2rys/StealthQuest/issues"><img src="https://img.shields.io/github/issues/I2rys/StealthQuest.svg"></img></a>
 	<a href="https://github.com/I2rys/StealthQuest"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
-		<a href="https://html.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img></a>
+	<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"></img></a>
 		<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></img></a>
 </p>
 

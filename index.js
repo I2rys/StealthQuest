@@ -20,7 +20,7 @@ Web.use(Express.static(__dirname + "/public"))
 Web.use("/api/test", function(req, res){
     var url = req.fetchParameter(["url"]).url
 
-    if(url == ""){
+    if(!url){
         return
     }
 
